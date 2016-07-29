@@ -22,3 +22,8 @@ you don't kown me exchange something!!!!!
 
 
 you don't kown me exchange something!!!!!
+
+---------------------------------------------------------
+git add ---> satge 
+
+git commit -m "" --->commit master;
